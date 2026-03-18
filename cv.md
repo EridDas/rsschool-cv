@@ -18,10 +18,11 @@ ______________________________
 
 ## My educational projects:
 
-``` function multiply(a, b){
+```
+function multiply(a, b){
   return a * b
 }
 ```
 
 ## English:
-Initial stagei. In the process of learning a language
+Initial stage. In the process of learning a language
