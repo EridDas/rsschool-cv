@@ -1,5 +1,7 @@
 ______________________________
 
+![photo](/Assets/images/ya_mini.jpg)
+
 # Voitsik Aliona
 
 <ya.voilens@gmail.com> | [My telegram](https://t.me/Voilens)
