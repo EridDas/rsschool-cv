@@ -7,6 +7,10 @@ body {
   background: #ffffff;
 }
 
+h2 {
+  margin: 0;
+}
+
 .container {
   display: flex;
   justify-content: space-between;
@@ -79,6 +83,7 @@ body {
 .section-title {
   letter-spacing: 6px;
   font-weight: 300;
+  margin: 0;
 }
 
 .main-title {
@@ -91,12 +96,14 @@ body {
   /* background-color: #000; */
   word-spacing: 2px;
   letter-spacing: 6px;
+  margin: 0;
 }
 
 .dark-theme-text {
   /* color: #ffffff; */
   letter-spacing: 2px;
   font-weight: 100;
+  margin: 0;
 }
 
 .section-subtitle {
@@ -107,6 +114,7 @@ body {
   text-align: center;
   line-height: 50px;
   word-spacing: 8px;
+  margin: 0;
 }
 
 .section-profile {
