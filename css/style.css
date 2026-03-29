@@ -16,6 +16,10 @@ body {
   padding: 0 20px;
 }
 
+.none {
+  display: none;
+}
+
 .header .container {
   /* display: flex;
   justify-content: space-between;
